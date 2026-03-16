@@ -1,0 +1,9 @@
+title: Sean Yau
+description: A spooky little corner of the internet built with Jekyll.
+url: "https://yausean.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+timezone: Asia/Singapore
+kramdown:
+  input: Kramdown
